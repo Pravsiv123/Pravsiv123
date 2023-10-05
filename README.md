@@ -1,4 +1,4 @@
- 👋![octocat-1696334521696](https://github.com/Pravsiv123/Pravsiv123/assets/146837858/4aa474a0-ef9c-4cde-a889-e95b2e383397)
+![octosmall](https://github.com/Pravsiv123/Pravsiv123/assets/146837858/63ff6846-b2e1-4c3d-ad97-55fce09d1321)
  - Hi, I’m @Pravsiv123
 - 👀 I’m interested in coding and making new things.
 - 🌱 I’m currently learning computer programming. 
