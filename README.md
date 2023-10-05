@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/Pravsiv123/Pravsiv123/main/octocat-1696334521696.png
 - 👋 Hi, I’m @Pravsiv123
 - 👀 I’m interested in coding and making new things.
 - 🌱 I’m currently learning computer programming. 
