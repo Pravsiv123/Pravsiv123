@@ -19,3 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 [Interactive Card](https://studio.code.org/projects/gamelab/hOqJlHvu19JB0EoJimcqzJYYKmFJ2CJcpIjeAc-Z-6I).
 > In this project, me and my partner colloborated with each other to create a project with different sprites, conditionals, and different interactive parts.
+
+[Flyer Game](https://studio.code.org/projects/gamelab/vJQBSpuloCwY_WN9KLQpT8vSvDnbohUp0o1wXpX4tpI0).
+> In this project, me and my partner made a game where you can use different keys to avoid obstacles and gather coins.
