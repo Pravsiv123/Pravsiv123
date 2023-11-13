@@ -20,6 +20,9 @@ You can click the Preview link to take a look at your changes.
 [Interactive Card](https://studio.code.org/projects/gamelab/hOqJlHvu19JB0EoJimcqzJYYKmFJ2CJcpIjeAc-Z-6I).
 > In this project, me and my partner colloborated with each other to create a project with different sprites, conditionals, and different interactive parts.
 
+[Side Scroller](https://studio.code.org/projects/gamelab/S_AQSIWg7RwhS1eT-4mDxyP33k8OVBX_SwsLIBYip7A).
+> In this project, my partner and I made a side scroller game in which you play as a kid who has to eat hamburgers and avoid broccoli to not lose health.
+
 [Flyer Game](https://studio.code.org/projects/gamelab/vJQBSpuloCwY_WN9KLQpT8vSvDnbohUp0o1wXpX4tpI).
 > In this project, me and my partner made a game where you can avod obstacles while flying and gather coins using different sprites and conditionals. 
 
