@@ -29,13 +29,13 @@ You can click the Preview link to take a look at your changes.
 [Platform Game](https://studio.code.org/projects/gamelab/CkxnC1wL3Wg9FZ1T2J3WwNvmlNr047EUxMHxw_oq_Yw)
 > In this project, I made a character that can jump on different surfaces and collect and avoid objects to gain points.
 
-[Final Game Project](https://studio.code.org/projects/gamelab/6Xf-48N0VHr69mUMYyNbDww61GPI69qjk7ni4RJTktc}
+[Final Game Project](https://studio.code.org/projects/gamelab/6Xf-48N0VHr69mUMYyNbDww61GPI69qjk7ni4RJTktc)
 >In this project, I made a soccer game where you can control a soccer player to score soccer goals and avoid the opponent from scoring in yours.
 
 [Hello It’s Me](https://gallery.appinventor.mit.edu/?galleryid=3e890e8a-868e-4d81-a5d8-d43af4fe497c)
 > In this project, I made a app where it talks about what I like and you can click on different buttons to hear different sounds.
 
-[My Piano](https://gallery.appinventor.mit.edu/?galleryid=c855b938-d6c1-4ae2-9b56-e50e7d52970e0
+[My Piano](https://gallery.appinventor.mit.edu/?galleryid=c855b938-d6c1-4ae2-9b56-e50e7d52970e0)
 > In this project, I made a app where you can click on different keys to make different soudns and then you can see what keys you played and clear the notes like a piano.
 
 [Music Maker]( https://gallery.appinventor.mit.edu/?galleryid=dbb93d1e-fa4f-4775-b894-4d2a94bb60d6)
