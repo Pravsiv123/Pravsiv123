@@ -40,3 +40,9 @@ You can click the Preview link to take a look at your changes.
 
 [Music Maker]( https://gallery.appinventor.mit.edu/?galleryid=dbb93d1e-fa4f-4775-b894-4d2a94bb60d6)
 > In this project, I made a app where you can click whatever button you want to play any type of music you want to and then you can record that sound and then later play the recording to hear how it sounds all together.
+
+[Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=97e94193-c2d5-410c-a592-fe7782851008)
+> In this project, we made a ball maze game where you can control the ball with your device and move around the maze to get to the finish line with your device and avoid the walls to gain points.
+
+[Food Chase]
+>
