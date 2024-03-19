@@ -52,6 +52,7 @@ You can click the Preview link to take a look at your changes.
 ### Carnegie Mellon 
 
 [Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/purpleHorse1760)
+> In this project, I made a picture of a wolf howling into the dark night and the sky.
 
 [Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/tomatoCat1384)
-
+> In this task I made a ocean scene where a urchin gets bigger the more you click on it.
