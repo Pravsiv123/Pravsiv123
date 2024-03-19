@@ -53,5 +53,5 @@ You can click the Preview link to take a look at your changes.
 
 [Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/purpleHorse1760)
 
-[Unit 2 Creative Task(https://academy.cs.cmu.edu/sharing/tomatoCat1384)
+[Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/tomatoCat1384)
 
