@@ -32,6 +32,8 @@ You can click the Preview link to take a look at your changes.
 [Final Game Project](https://studio.code.org/projects/gamelab/6Xf-48N0VHr69mUMYyNbDww61GPI69qjk7ni4RJTktc)
 >In this project, I made a soccer game where you can control a soccer player to score soccer goals and avoid the opponent from scoring in yours.
 
+### MIT App Inventor
+
 [Hello It’s Me](https://gallery.appinventor.mit.edu/?galleryid=3e890e8a-868e-4d81-a5d8-d43af4fe497c)
 > In this project, I made a app where it talks about what I like and you can click on different buttons to hear different sounds.
 
@@ -44,5 +46,12 @@ You can click the Preview link to take a look at your changes.
 [Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=97e94193-c2d5-410c-a592-fe7782851008)
 > In this project, we made a ball maze game where you can control the ball with your device and move around the maze to get to the finish line with your device and avoid the walls to gain points.
 
-[Food Chase]
->
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=17275b57-3da9-453a-be82-19e904a421c0)
+> In this project, we made a game where you control something to ctach different foods.
+
+### Carnegie Mellon 
+
+[Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/purpleHorse1760)
+
+[Unit 2 Creative Task(https://academy.cs.cmu.edu/sharing/tomatoCat1384)
+
