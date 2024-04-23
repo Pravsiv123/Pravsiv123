@@ -56,3 +56,9 @@ You can click the Preview link to take a look at your changes.
 
 [Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/tomatoCat1384)
 > In this task I made a ocean scene where a urchin gets bigger the more you click on it.
+
+[Unit 3 Creative Task](https://academy.cs.cmu.edu/sharing/honeydewElephant3107)
+> In this task, we made a living room scene and used variables to chanbge the properites of the objcts and as you click more and more, the properties change a lot.
+
+[Unit 4 Creative Task(https://academy.cs.cmu.edu/sharing/linenKangaroo5543)
+> In this task, we used python concepts with opacity, colors and different variables to create a trivia that can be hard for anyone and chaneg the question if you get it right.
