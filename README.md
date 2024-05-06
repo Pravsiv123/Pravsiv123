@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 > In this project, I made a app where it talks about what I like and you can click on different buttons to hear different sounds.
 
 [My Piano](https://gallery.appinventor.mit.edu/?galleryid=c855b938-d6c1-4ae2-9b56-e50e7d52970e0)
-> In this project, I made a app where you can click on different keys to make different soudns and then you can see what keys you played and clear the notes like a piano.
+> In this project, I made a app where you can click on different keys to make different sounds and then you can see what keys you played and clear the notes like a piano.
 
 [Music Maker]( https://gallery.appinventor.mit.edu/?galleryid=dbb93d1e-fa4f-4775-b894-4d2a94bb60d6)
 > In this project, I made a app where you can click whatever button you want to play any type of music you want to and then you can record that sound and then later play the recording to hear how it sounds all together.
@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 > In this task I made a ocean scene where a urchin gets bigger the more you click on it.
 
 [Unit 3 Creative Task](https://academy.cs.cmu.edu/sharing/honeydewElephant3107)
-> In this task, we made a living room scene and used variables to chanbge the properites of the objcts and as you click more and more, the properties change a lot.
+> In this task, we made a living room scene and used variables to change the properties of the objcts and as you click more and more, the properties change a lot.
 
 [Unit 4 Creative Task](https://academy.cs.cmu.edu/sharing/linenKangaroo5543)
-> In this task, we used python concepts with opacity, colors and different variables to create a trivia that can be hard for anyone and chaneg the question if you get it right.
+> In this task, we used python concepts with opacity, colors and different variables to create a trivia thatf can be hard for anyone and chaneg the question if you get it right.
