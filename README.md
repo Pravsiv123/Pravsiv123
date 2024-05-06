@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 > In this project, we made a ball maze game where you can control the ball with your device and move around the maze to get to the finish line with your device and avoid the walls to gain points.
 
 [Food Chase](https://gallery.appinventor.mit.edu/?galleryid=17275b57-3da9-453a-be82-19e904a421c0)
-> In this project, we made a game where you control something to ctach different foods.
+> In this project, we made a game where you control something to catch different foods.
 
 ### Carnegie Mellon 
 
